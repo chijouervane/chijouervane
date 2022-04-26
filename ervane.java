@@ -1,5 +1,5 @@
-public class ervane{
-public static void main(String[] args){
-System.out.println("hellow world");
-}
+#include<stdio.h>
+int main(){
+printf("hello world");
+return 0;
 }
